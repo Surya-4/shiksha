@@ -12,12 +12,12 @@ import Register from './components/Register';
 export const signContext=createContext()
 
 function App() {
-  const [issignedin,setIssignedin]=useState(true);
+  const [issignedin,setIssignedin]=useState(false);
 
   return (
     <>
     <signContext.Provider value={{issignedin,setIssignedin}}>
-    <BrowserRouter basename=''>
+    <BrowserRouter basename='/shiksha'>
     <Routes>
       <Route path='/' element={
         <>
