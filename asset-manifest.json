@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shiksha/static/css/main.390e043c.css",
+    "main.js": "/shiksha/static/js/main.e2441d06.js",
+    "static/js/787.2f684b0d.chunk.js": "/shiksha/static/js/787.2f684b0d.chunk.js",
+    "static/media/book.png": "/shiksha/static/media/book.ce452c26bf1e0ba08e0b.png",
+    "index.html": "/shiksha/index.html",
+    "main.390e043c.css.map": "/shiksha/static/css/main.390e043c.css.map",
+    "main.e2441d06.js.map": "/shiksha/static/js/main.e2441d06.js.map",
+    "787.2f684b0d.chunk.js.map": "/shiksha/static/js/787.2f684b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.390e043c.css",
+    "static/js/main.e2441d06.js"
+  ]
+}
