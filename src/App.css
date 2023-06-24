@@ -36,3 +36,71 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  margin:15px 10px 15px 10px;
+}
+
+nav{
+  display: flex;
+  gap: 20px;
+}
+a{
+  text-decoration: none;
+  color:rgb(180, 50, 72);
+  font-size: 20px;
+}
+.about p{
+  font-size: 40px;
+  color:rgb(red, green, blue);
+  width: 60%;
+  margin: auto;
+  margin-top: 10px;
+}
+.headlogin{
+  color: rgb(180, 50, 72);
+  text-align: center;
+}
+.form{
+  max-width: 20%;
+  margin: auto;
+}
+input{
+  width: 100%;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  padding: 5px;
+}
+button{
+  width: 105%;
+}
+.intro{
+  text-align: center;
+  color: orangered;
+  background-image: url('images/book.png');
+  background-repeat: no-repeat;
+  background-size: 1000px 600px;
+  background-position: center;
+}
+.intro p{
+  margin-top: 350px;
+  font-size: 30px;
+}
+.course-intro{
+  text-align: center;
+  background-image: linear-gradient(60deg,white,rgb(149, 217, 248),rgb(245, 89, 89),white);
+  font-size: 30px;
+}
+.card h3{
+  color: red;
+}
+.card img{
+  width: 100%;
+  margin: auto;
+}
+.about{
+  background-image: linear-gradient(30deg,rgb(53, 37, 37),white,rgb(221, 95, 95),white,rgb(53, 37, 37));
+  color: rgb(10,2,39)
+}
